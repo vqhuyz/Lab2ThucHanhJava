@@ -20,11 +20,11 @@ public class Lab02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //bai1_GiaiPTBac2();
-        //bai2_MangNguyenTo();
+        bai1_GiaiPTBac2();
+        bai2_MangNguyenTo();
         //bai3_MaTran();
-        //bai4_ChuyenInHoa();
-        //bai5_TimChuoiDaiNhat();
+        bai4_ChuyenInHoa();
+        bai5_TimChuoiDaiNhat();
 
     }
 
